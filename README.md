@@ -1,5 +1,5 @@
 ## Text-to-Image 모델
-  - StackGAN
+  - StackGAN++
   - CLIP(Contrastive Learning)
 
 
